@@ -1,0 +1,13 @@
+1.
+./autogen.sh produces
+aclocal.m4 autom4te.cache(d) configure INSTALL config(d)
+
+2.
+cd build; 
+../configure produces
+"config.log  config.status  Makefile  src"
+in the build dir
+
+
+
+
